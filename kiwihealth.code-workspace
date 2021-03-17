@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "kiwihealth",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "kiwihealth"
+	}
+}
